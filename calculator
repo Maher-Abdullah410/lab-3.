@@ -7,3 +7,10 @@ Console.WriteLine("Enter a number: ");
 int num2 = Convert.ToInt32(Console.ReadLine());
 double sum = num1 + num2
 Console.WriteLine(sum);
+//subtraction
+Console.WriteLine("Enter a number: ");
+int num1 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter a number: ");
+int num2 = Convert.ToInt32(Console.ReadLine());
+double sub = num1 - num2
+Console.WriteLine(sub);
